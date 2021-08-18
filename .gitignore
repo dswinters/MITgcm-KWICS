@@ -2,3 +2,4 @@
 /setup/corrugation_params.mat
 /setup/inFiles/setup.png
 /analysis/plotVel/
+/analysis/calcFluxBC/
