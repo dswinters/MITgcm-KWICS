@@ -1,0 +1,14 @@
+#+TITLE: MITgcm: Kelvin Wave Incident on a Corrugated Shelf
+
+1. Clone this repository:
+   #+begin_src shell
+   git clone git@github.com:dswinters/MITgcm-KWICS.git
+   #+end_src
+
+2. Edit ~setup/gendata_params.m~ to specify topographic wavelengths
+
+3. Run ~setup/gendata_all.m~ to generate run directories
+
+4. Run ~setup/build_kwics.sh~ to build all executables
+
+5. Run ~setup/run_all.sh~ to run all simulations
